@@ -26,6 +26,8 @@ env/
 # Large datasets
 data/*.csv
 data/*.zip
+archive/*.csv
+archive/*.zip
 
 # Model checkpoints
 *.h5
