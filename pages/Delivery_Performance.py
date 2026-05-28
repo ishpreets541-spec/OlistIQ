@@ -4,7 +4,7 @@ import plotly.express as px
 
 st.title("🚚 Delivery Performance")
 
-df = pd.read_csv("/Users/lakshyasmac/Desktop/E-commerce dataset/archive/merged_olist.csv")
+df = pd.read_csv("archive/merged_olist.csv")
 
 df['order_delivered_customer_date'] = pd.to_datetime(
     df['order_delivered_customer_date']
