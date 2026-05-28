@@ -309,8 +309,4 @@ fig = px.line(
 
 st.plotly_chart(fig, use_container_width=True)
 
-import shap
 
-explainer = shap.TreeExplainer(model)
-
-shap_values = explainer.shap_values(X_test)
