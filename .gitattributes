@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+archive/merged_olist.csv filter=lfs diff=lfs merge=lfs -text
