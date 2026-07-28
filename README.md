@@ -238,6 +238,16 @@ Source: Kaggle – Olist Brazilian E-Commerce Dataset
 * FastAPI Prediction Service
 * CI/CD Deployment Pipeline
 
+# 👩‍💻 Author
+
+**Ishpreet Singh**
+
+M.Tech
+Indian Institute of Technology Bombay
+Mail ID:
+25m0326@iitb.ac.in
+
+
 
 ---
 
